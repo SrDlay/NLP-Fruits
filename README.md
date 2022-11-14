@@ -2,9 +2,8 @@
 Project of the discipline artificial intelligence 6th period.
 
 ### Requirements:
-Python 3
+python3
+python-pip
 
-Python PIP
-
-### Instaltion:
+### Installation:
 `source ./bin/activate && python -m pip install -r requirements.txt`
