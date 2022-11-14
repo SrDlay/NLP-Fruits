@@ -6,5 +6,5 @@ Python 3
 
 Python PIP
 
-### Instructions:
-Run: python -m pip install -r requirements.txt
+### Instaltion:
+`python -m pip install -r requirements.txt`
