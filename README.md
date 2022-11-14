@@ -7,4 +7,4 @@ Python 3
 Python PIP
 
 ### Instaltion:
-`python -m pip install -r requirements.txt`
+`source ./bin/activate && python -m pip install -r requirements.txt`
