@@ -9,7 +9,7 @@ Is recommended utilize a virtual environment.
 `python3 -m venv venv` to create and `source ./venv/bin/activate` to use it.
 
 ##### Windows:
-`python -m venv venv` to create and `venv\Scripts\activate.bat`
+`python -m venv venv` to create and `venv\Scripts\activate.bat` to use it.
 
 
 You can check if venv is active using `which python` the output must be a path to python within the project (only Linux).
